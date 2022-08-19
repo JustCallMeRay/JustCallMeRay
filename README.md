@@ -1,10 +1,14 @@
-- Hi, I’m @JustCallMeRay
-- I’m interested in gamedevlopment and technical art
-- I’m currently learning game development, technical art and GPU programming. 
-- I’m looking to collaborate on anything really, an artist would be helpfull, willing to do a couple shaders for most people.
-- [You can reach me in any of these places] (www.linktr.ee/RaymondTracing) I should reply fairly quickly so feel free to spam.
+Hello, I’m Ray ✨ (@JustCallMeRay)
+- I’m interested in game devlopment and technical art but have a love of all things code, maths and 
+- I’m currently honning my skills as an experianced devloper and expanding into new specialisms to increase my abilities.
+- I am avalible for hire and would love to collabarate on anything usign GPU/parrell compute. I have recently been looking at "web 3" style netcode (more UDP less watch the world burn) and thinking about how to check passwords with an "untrusted" server. 
+- You can reach me by [email] :e-mail:, [reddit] or [twitter], I also have a [linktree] to contain everything and a backup incase my [website] goes down.
 
-<!---
-JustCallMeRay/JustCallMeRay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[reddit]: <https://www.reddit.com/user/RaymondTracing>
+[twitter]: <http://twitter.com/TechArtistRay>
+[email]: <mailto:OlekRaymond@Gmail.com>	
+[website]: <https://justcallmeray.github.io/PortfolioWebsite/>
+[linktree]: <www.linktr.ee/RaymondTracing>
+
+
