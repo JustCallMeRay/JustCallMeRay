@@ -1,8 +1,5 @@
 Hello, I’m Ray (@JustCallMeRay)
 
-I run the Bristol Python Dojo.
+I run the Bristol Python Dojo, C++ is my favorite langauge nothing has changed my mind yet.\
 
-[twitter]: <http://twitter.com/TechArtistRay>
-[email]: <mailto:OlekRaymond@Gmail.com>	
-[website]: <https://justcallmeray.github.io/PortfolioWebsite/>
-[snippets]: <https://github.com/JustCallMeRay/Snippets/>
+Personal projects include a subset of C++ to avoid the things I don't like
